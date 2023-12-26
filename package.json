@@ -2,7 +2,7 @@
     "name": "login-erkon",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://gremcha.github.io/mobile-login-erkon",
+    "homepage": "https://gremcha.github.io/mobile-login-erkon/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
         "@testing-library/react": "^13.4.0",
