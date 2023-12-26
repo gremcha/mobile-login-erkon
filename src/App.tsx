@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react'
 import './App.css'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createHashRouter, RouterProvider } from 'react-router-dom'
 
 import { FormContextProvider } from './context/PhoneContext'
 import LoginPhone from './pages/LoginPhone'
 import LoginCode from './pages/LoginCode'
 
-const router = createBrowserRouter([
+const router = createHashRouter([
     {
         path: '/',
         element: <LoginPhone />,
