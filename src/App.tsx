@@ -12,6 +12,7 @@ const router = createHashRouter([
         element: <LoginPhone />,
     },
     { path: '/auth', element: <LoginCode /> },
+    { path: '/page', element: <div></div> },
 ])
 function App() {
     const [viewportHeight, setViewportHeight] = useState(window.innerHeight)
