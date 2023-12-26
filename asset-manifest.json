@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mobile-login-erkon/static/css/main.e8b0c29d.css",
-    "main.js": "/mobile-login-erkon/static/js/main.a8691c3f.js",
+    "main.js": "/mobile-login-erkon/static/js/main.badc6020.js",
     "static/js/787.963a9d81.chunk.js": "/mobile-login-erkon/static/js/787.963a9d81.chunk.js",
     "index.html": "/mobile-login-erkon/index.html",
     "main.e8b0c29d.css.map": "/mobile-login-erkon/static/css/main.e8b0c29d.css.map",
-    "main.a8691c3f.js.map": "/mobile-login-erkon/static/js/main.a8691c3f.js.map",
+    "main.badc6020.js.map": "/mobile-login-erkon/static/js/main.badc6020.js.map",
     "787.963a9d81.chunk.js.map": "/mobile-login-erkon/static/js/787.963a9d81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b0c29d.css",
-    "static/js/main.a8691c3f.js"
+    "static/js/main.badc6020.js"
   ]
 }
